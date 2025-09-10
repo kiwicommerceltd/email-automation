@@ -1,33 +1,6 @@
-# Ignore Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Virtual environment
-venv/
-.env/
-.env.*
-
-# VSCode / IDE settings
-.vscode/
-.idea/
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Log files
-*.log
-
 # Local database / sqlite files
 *.sqlite3
 
 # Sensitive files for Gmail/Google API
 fetchmails/token.json
 fetchmails/credentials.json
-fetchmails/credentials.json.*
-fetchmails/*.bak*
-fetchmails/*.backup*
-
-# Ignore any JSON secrets in fetchmails
-fetchmails/*.json

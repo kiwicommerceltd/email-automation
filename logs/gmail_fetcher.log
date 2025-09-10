@@ -1,0 +1,248 @@
+2025-08-12 08:25:19 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 08:25:20 [INFO] Watching for file changes with StatReloader
+2025-08-12 08:25:28 [WARNING] Not Found: /favicon.ico
+2025-08-12 08:26:15 [INFO] 
+✅ Pipeline complete for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/198892d24cb30e93_test3.pdf → CSV saved to /home/lenovo/django-brosh/emailorders/media/fetchmails/output_csv/198892d24cb30e93_test3.csv
+2025-08-12 09:32:01 [INFO] 
+✅ Pipeline complete for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/198892d24cb30e93_test3.pdf → CSV saved to /home/lenovo/django-brosh/emailorders/media/fetchmails/output_csv/198892d24cb30e93_test3.csv
+2025-08-12 09:34:27 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 09:34:28 [INFO] Watching for file changes with StatReloader
+2025-08-12 10:35:48 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 10:35:51 [INFO] Watching for file changes with StatReloader
+2025-08-12 10:36:33 [ERROR] No data available to extract. Skipping CSV generation.
+2025-08-12 10:36:33 [ERROR] No valid data found for CSV generation.
+2025-08-12 10:37:16 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 10:37:17 [INFO] Watching for file changes with StatReloader
+2025-08-12 11:07:05 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 11:07:06 [INFO] Watching for file changes with StatReloader
+2025-08-12 11:44:31 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 11:44:33 [INFO] Watching for file changes with StatReloader
+2025-08-12 11:45:32 [INFO] CSV file generated successfully: /home/lenovo/django-brosh/emailorders/media/fetchmails/output_csv/198892d24cb30e93_test3.csv
+2025-08-12 11:45:32 [INFO] Successfully generated CSV file for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/198892d24cb30e93_test3.pdf
+2025-08-12 11:46:35 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 11:46:37 [INFO] Watching for file changes with StatReloader
+2025-08-12 13:14:45 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-08-12 13:14:49 [INFO] Watching for file changes with StatReloader
+2025-08-28 06:16:23 [INFO] Watching for file changes with StatReloader
+2025-08-28 06:16:34 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:13:02 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/models.py changed, reloading.
+2025-08-28 07:13:04 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:18:13 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:18:15 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:18:16 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:18:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:18:39 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:19:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:19:39 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:21:19 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:21:21 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:24:01 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:24:03 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:26:33 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:26:34 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:30:28 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:30:30 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:30:35 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:30:36 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:30:37 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:30:41 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:31:40 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:31:42 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:31:49 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:32:18 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:32:20 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:32:21 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:32:45 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:32:47 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:32:49 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:37:00 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:37:01 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:37:20 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:37:21 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:37:28 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:37:29 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:40:25 [WARNING] Not Found: /favicon.ico
+2025-08-28 07:40:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:40:39 [INFO] Watching for file changes with StatReloader
+2025-08-28 07:41:18 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 07:41:19 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:16:08 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:16:10 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:21:00 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:21:02 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:21:29 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:21:31 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:21:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:21:39 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:21:47 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:21:49 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:22:23 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:22:24 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:26:02 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:26:04 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:28:56 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:28:57 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:30:30 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:30:32 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:31:50 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 08:32:41 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 08:32:54 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:32:57 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:33:03 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 08:33:05 [INFO] Watching for file changes with StatReloader
+2025-08-28 08:33:14 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 08:33:15 [WARNING] Not Found: /favicon.ico
+2025-08-28 08:33:17 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 08:33:20 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:29:00 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:32:05 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 09:32:07 [INFO] Watching for file changes with StatReloader
+2025-08-28 09:32:09 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:32:22 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:32:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-28 09:32:39 [INFO] Watching for file changes with StatReloader
+2025-08-28 09:32:41 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:38:39 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:39:59 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:39:59 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:40:46 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:46:30 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:46:31 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:46:37 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:46:38 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:47:05 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:47:06 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:47:21 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:47:22 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:48:51 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:50:27 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:50:37 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:51:31 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 09:51:31 [WARNING] Not Found: /favicon.ico
+2025-08-28 09:58:12 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 10:02:28 [WARNING] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-08-28 10:37:07 [INFO] Start Cron Job To Fetch New Emails...
+2025-08-28 10:37:09 [INFO] This customer does not exist... sarah@pdffiller.com
+2025-08-28 10:50:01 [INFO] Start Cron Job To Fetch New Emails...
+2025-08-28 10:50:02 [INFO] This customer does not exist... sarah@pdffiller.com
+2025-08-29 07:32:56 [INFO] Watching for file changes with StatReloader
+2025-08-29 07:32:58 [WARNING] Not Found: /favicon.ico
+2025-08-29 08:02:37 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/models.py changed, reloading.
+2025-08-29 08:02:42 [INFO] Watching for file changes with StatReloader
+2025-08-29 10:11:41 [INFO] Watching for file changes with StatReloader
+2025-08-29 10:12:13 [INFO] Watching for file changes with StatReloader
+2025-08-29 10:12:14 [WARNING] Not Found: /favicon.ico
+2025-08-29 12:56:09 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/admin.py changed, reloading.
+2025-08-29 12:58:46 [INFO] Watching for file changes with StatReloader
+2025-08-29 13:03:06 [INFO] Start Cron Job To Fetch New Emails...
+2025-08-29 13:03:08 [INFO] This customer does not exist... hi@finalroundai.com
+2025-08-29 13:07:08 [INFO] Start Cron Job To Fetch New Emails...
+2025-08-29 13:07:09 [INFO] This customer does not exist... hi@finalroundai.com
+2025-08-29 13:08:30 [INFO] Watching for file changes with StatReloader
+2025-08-29 13:08:59 [INFO] Watching for file changes with StatReloader
+2025-08-29 14:03:37 [INFO] Watching for file changes with StatReloader
+2025-08-29 14:03:56 [INFO] Watching for file changes with StatReloader
+2025-08-29 14:04:14 [WARNING] Not Found: /favicon.ico
+2025-08-30 06:11:36 [INFO] Watching for file changes with StatReloader
+2025-08-30 06:11:38 [WARNING] Not Found: /favicon.ico
+2025-08-30 12:46:31 [INFO] Watching for file changes with StatReloader
+2025-08-30 12:47:06 [INFO] Watching for file changes with StatReloader
+2025-08-30 12:47:09 [WARNING] Not Found: /favicon.ico
+2025-09-01 11:57:16 [INFO] Watching for file changes with StatReloader
+2025-09-01 11:57:23 [WARNING] Not Found: /favicon.ico
+2025-09-04 08:32:24 [INFO] Watching for file changes with StatReloader
+2025-09-04 08:32:28 [WARNING] Not Found: /favicon.ico
+2025-09-04 10:58:48 [INFO] Watching for file changes with StatReloader
+2025-09-04 10:59:21 [INFO] Watching for file changes with StatReloader
+2025-09-04 11:18:09 [INFO] /home/lenovo/django-brosh/emailorders/emailorders/urls.py changed, reloading.
+2025-09-04 11:18:12 [INFO] Watching for file changes with StatReloader
+2025-09-04 11:18:29 [INFO] /home/lenovo/django-brosh/emailorders/emailorders/urls.py changed, reloading.
+2025-09-04 11:18:30 [INFO] Watching for file changes with StatReloader
+2025-09-04 11:19:16 [INFO] /home/lenovo/django-brosh/emailorders/emailorders/urls.py changed, reloading.
+2025-09-04 11:19:17 [INFO] Watching for file changes with StatReloader
+2025-09-04 11:20:27 [WARNING] Not Found: /admin/
+2025-09-04 11:20:32 [WARNING] Not Found: /admin/c
+2025-09-04 11:20:51 [INFO] /home/lenovo/django-brosh/emailorders/emailorders/urls.py changed, reloading.
+2025-09-04 11:20:54 [INFO] Watching for file changes with StatReloader
+2025-09-05 05:48:19 [INFO] Watching for file changes with StatReloader
+2025-09-05 05:48:21 [WARNING] Not Found: /favicon.ico
+2025-09-05 06:24:40 [INFO] /home/lenovo/django-brosh/emailorders/fetchmails/generate_csv.py changed, reloading.
+2025-09-05 06:24:44 [INFO] Watching for file changes with StatReloader
+2025-09-05 07:29:15 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:29:18 [INFO] New email order created: emailId=19918bf298e81d93, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 07:29:18 [INFO] Failed to run Document AI pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/19918bf298e81d93.pdf: Cannot find 'customeraddress_set' on Customer object, 'customeraddress_set' is an invalid parameter to prefetch_related()
+2025-09-05 07:32:48 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:33:08 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:33:10 [INFO] Failed to run Document AI pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/19918bf298e81d93.pdf: Cannot find 'fetchmails_customer_default_address_id_8387a195_fk_fetchmail' on Customer object, 'fetchmails_customer_default_address_id_8387a195_fk_fetchmail' is an invalid parameter to prefetch_related()
+2025-09-05 07:34:04 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:34:12 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:34:13 [INFO] Failed to run Document AI pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/19918bf298e81d93.pdf: 'Customer' object has no attribute 'customeraddress_set'
+2025-09-05 07:36:59 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:37:04 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 07:38:20 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:06:51 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:07:42 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:08:57 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:10:18 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:22:33 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:30:50 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:31:21 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:34:18 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:36:50 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:37:02 [ERROR] Error in pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/19918bf298e81d93.pdf: local variable 'customer_addresses' referenced before assignment
+2025-09-05 08:37:02 [INFO] Status updated to 'Failed' for email ID: 19918bf298e81d93
+2025-09-05 08:38:08 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 08:38:19 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 09:48:16 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 09:50:55 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 09:53:52 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 09:58:59 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 09:59:01 [INFO] New email order created: emailId=199194fef241aa66, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 10:04:16 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:08:39 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:12:39 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:26:45 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:28:58 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:29:37 [ERROR] Error in pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/199194fef241aa66_test.pdf: name 'matches' is not defined
+2025-09-05 10:29:37 [INFO] Status updated to 'Failed' for email ID: 199194fef241aa66
+2025-09-05 10:34:18 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:34:32 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:38:08 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:39:26 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:48:12 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:50:29 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:51:10 [ERROR] Error in pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/199194fef241aa66_test.pdf: name 'customer_data' is not defined
+2025-09-05 10:51:10 [INFO] Status updated to 'Failed' for email ID: 199194fef241aa66
+2025-09-05 10:53:10 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:54:53 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:55:33 [ERROR] Error in pipeline for /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/199194fef241aa66_test.pdf: name 'customer_data' is not defined
+2025-09-05 10:55:33 [INFO] Status updated to 'Failed' for email ID: 199194fef241aa66
+2025-09-05 10:58:58 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 10:59:19 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 11:43:53 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 11:52:20 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:15:02 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:17:57 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:17:59 [INFO] New email order created: emailId=199194fef241aa66, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 12:18:37 [INFO] Successfully generated CSV file for: /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/199194fef241aa66_test.pdf
+2025-09-05 12:18:37 [INFO] Status updated to 'Generated' for email ID: 199194fef241aa66
+2025-09-05 12:20:32 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:20:35 [INFO] New email order created: emailId=19919d207a456a9a, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 12:21:19 [ERROR] PDF format is incorrect: Mismatched lengths in extracted data.
+2025-09-05 12:21:19 [ERROR] No valid data found for CSV generation.
+2025-09-05 12:21:19 [INFO] Status updated to 'Failed' for email ID: 19919d207a456a9a
+2025-09-05 12:40:21 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:40:23 [INFO] New email order created: emailId=19919e425319caaa, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 12:41:11 [ERROR] PDF format is incorrect: Mismatched lengths in extracted data.
+2025-09-05 12:41:11 [ERROR] No valid data found for CSV generation.
+2025-09-05 12:41:11 [INFO] Status updated to 'Failed' for email ID: 19919e425319caaa
+2025-09-05 12:42:44 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 12:42:47 [INFO] New email order created: emailId=19919e63a50f3cd1, sender=bhupendra@kiwicommerce.co.uk
+2025-09-05 12:43:22 [INFO] Successfully generated CSV file for: /home/lenovo/django-brosh/emailorders/media/fetchmails/email_pdfs/19919e63a50f3cd1_Order17488 (copy).pdf
+2025-09-05 12:43:22 [INFO] Status updated to 'Generated' for email ID: 19919e63a50f3cd1
+2025-09-05 13:21:41 [INFO] Start Cron Job To Fetch New Emails...
+2025-09-05 13:29:05 [INFO] Watching for file changes with StatReloader
+2025-09-05 13:30:05 [ERROR] PDF format is incorrect: Mismatched lengths in extracted data.
+2025-09-05 13:30:05 [ERROR] No valid data found for CSV generation.
+2025-09-10 10:44:53 [INFO] Watching for file changes with StatReloader
+2025-09-10 10:45:10 [WARNING] Not Found: /favicon.ico
