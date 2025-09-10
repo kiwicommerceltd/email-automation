@@ -1,0 +1,98 @@
+{% extends "admin/base.html" %}
+{% load static %}
+
+{% block title %}{{ site_title|default:_('Django site admin') }}{% endblock %}
+
+{% block branding %}
+  <div id="site-name">
+    <a href="{% url 'admin:index' %}">
+      <img src="{% static 'img/admin_logo.png' %}" alt="Logo" height="40" style="vertical-align: middle;" />
+      <span style="vertical-align: middle; font-size: 20px; margin-left: 8px;">Email Order Admin</span>
+    </a>
+  </div>
+{% endblock %}
+
+{% block extrahead %}
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+<style>
+  #loaderOverlay {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(2px);
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    font-family: sans-serif;
+  }
+
+  #loaderSpinner {
+    width: 40px;
+    height: 40px;
+    border: 5px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 5px solid #3498db;
+    animation: spin 1s linear infinite;
+    margin-bottom: 12px;
+  }
+
+  #text {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 4px;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+{% endblock %}
+
+{% block footer %}
+{{ block.super }}
+
+<div id="loaderOverlay">
+  <div id="loaderSpinner"></div>
+  <div id="text">Please wait while we generating CSV...</div>
+</div>
+
+<script>
+  function showLoader(buttonId) {
+    document.getElementById("loaderOverlay").style.display = "flex";
+    const btn = document.getElementById(buttonId);
+    if (btn) {
+      btn.style.pointerEvents = 'none';
+      btn.style.opacity = 0.6;
+      btn.innerText = 'Processing...';
+    }
+  }
+</script>
+
+{% if request.session.csv_download_filename %}
+<script>
+  window.addEventListener("load", function () {
+    const link = document.createElement("a");
+    link.href = "{% url 'download_generated_csv' %}";
+    link.download = "{{ request.session.csv_download_filename }}";
+    link.style.display = "none";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    setTimeout(() => {
+      window.location.reload();
+    }, 2000);
+  });
+</script>
+{% endif %}
+<script>
+  window.CSV_KEYS = {{ csv_keys|safe }};
+</script>
+{% endblock %}

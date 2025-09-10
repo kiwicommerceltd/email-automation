@@ -1,0 +1,49 @@
+.pdf-preview-wrapper {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  /* border: 1px solid #ccc; */
+  background-color: #fafafa;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.pdf-preview-embed {
+  width: 100%;
+  height: 500px;
+  border: none;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.text-field {
+  flex: 1;
+  padding: 6px;
+}
+
+.dropdown-field {
+  width: 180px;
+  padding: 6px;
+}
+#dynamicInputSection{
+  width: 50%;
+}
+.btn-secondary {
+  margin-right: 10px;
+  padding: 10px 15px !important;
+}
+
+/* for customer address on customer edit form  */
+.model-customer .inline-related.dynamic-addresses h3 span.inline_label{
+  padding-left: 45px;
+}
+.model-customer .module.aligned .form-row.field-document{
+  padding-bottom: 80px;
+}
+.model-customer .module.aligned{
+  margin-bottom: 15px;
+}
